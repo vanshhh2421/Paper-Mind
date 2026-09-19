@@ -1,0 +1,6 @@
+data/papers/
+data/
+__pycache__/
+*.pyc
+*.pdf
+.env
