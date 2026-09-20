@@ -247,7 +247,7 @@ PaperMind-RAG/
 
 ## 🙋 About
 
-Built by **[Amaan Arif](https://www.linkedin.com/in/amaanarif755)** — 2nd year B.Tech Chemical Engineering @ MNNIT Allahabad.
+Built by **[Vansh Panwar]** — 3rd year B.Tech Chemical Engineering @ MNNIT Allahabad.
 
 This project is a from-scratch implementation of a domain-specific RAG system, built as part of a deep dive into LLMs, retrieval systems, and enterprise AI. Every component — keyword extraction, paper fetching, parsing, embedding, retrieval — is built and understood independently.
 
